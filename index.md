@@ -20,11 +20,22 @@ July 2012 -  July 2014  Master, School of Geophysics and Information Engineering
 Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)
 ```
 
-#### Academic honors
+#### Academic Honors
 ```markdown
 2009.3   Physics Competition  **First Prize**, Competitions of China University of Petroleum, Beijing
 2010.5   Mathematical Modeling Competition, **Third Prize**, Competitionsof China Univerisity of Petroleum, Beijing
 2010.9   National Mathematical Modeling Competition, **Second Prize**,, National and International Competitions
+```
+#### Scholarship Awarded
+```markdown
+2008-2009 The Third Prize Scholarship  
+2009-2010 National Scholarship (only 1 of 57 students in department of automation awarded) 
+2010-2011 Enterprise Scholarship (only 5 of 57 students in department of automation awarded)  
+2008-2009 Merit Student 
+2009-2010 Merit Student  
+2009-2010 Advanced Individual of Cultural and sports activities 
+2010-2011 Merit Student  
+2010-2011 Advanced Individual of Cultural and sports activities Scholarship
 ```
 
 ## Header 2
