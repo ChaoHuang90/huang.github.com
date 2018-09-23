@@ -2,12 +2,12 @@
 
 You can use the [editor on GitHub](https://github.com/ChaoHuang90/huang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
+#### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
-### Degree: Ph.D (Univerisity of Wollongong) 
+#### Degree: Ph.D (Univerisity of Wollongong) 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Research Interests/Area: Control theory and applications, Vehicle System Dynamics and Control
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
