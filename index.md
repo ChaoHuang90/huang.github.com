@@ -48,16 +48,34 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018 DOI: 10.1109/T
 **Chao Huang**, Fazel Naghdy, Haiping Du, “Fault detection and isolation based model predictive fault-tolerant control for constrained vehicle steer-by-wire systems“, 
 IEEE transactions on Control System technology, 2017 DOI: 10.1109/TCST.2017.2736497
 
-**Chao Huang**, Fazel Naghdy, Haiping Du, “Fault tolerant sliding mode predictive control with chaos particle swarm optimization for uncertain Steer-by-Wire system“, IEEE Transactions on Cybernetics, 2017 DOI: 10.1109/TCYB.2017.2771497
+**Chao Huang**, Fazel Naghdy, Haiping Du, “Fault tolerant sliding mode predictive control with chaos particle swarm optimization for uncertain Steer-by-Wire system“, 
+IEEE Transactions on Cybernetics, 2017 DOI: 10.1109/TCYB.2017.2771497
 
-Huang, Hailong, Andrey V. Savkin, and **Chao Huang**. “I-UMDPC: The improved-unusual message delivery path construction for wireless sensor networks with mobile sinks.“, IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
+Huang, Hailong, Andrey V. Savkin, and **Chao Huang**. “I-UMDPC: The improved-unusual message delivery path construction for wireless sensor networks with mobile sinks.“, 
+IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
 
 Hailong Huang, Xin Zuo, **Chao Huang**, Jianwei Liu. “A framework for classification with single feature kernel matrix.“, Optik-International Journal for Light and Electron Optics 125.3 (2014): 1024-1029.
 
-Hailong Huang, Xin Zuo, Chao Huang, “Arbitrary initialization for Chan–Vese model”, Optik, 125 (18), 5257-5263, 2014
+Hailong Huang, Xin Zuo, **Chao Huang**, “Arbitrary initialization for Chan–Vese model”, Optik, 125 (18), 5257-5263, 2014
 ```
-### Header 3
+#### Conference papers
+```markdown
+**Chao Huang**, Fazel Naghdy, Haiping Du, ‘FDI based model predictive fault-tolerant control for constrained steer-by-wire systems’, 
+2018 IEEE Conference on Control Technology and Applications (CCTA18)
 
+**Chao Huang**, Fazel Naghdy, Haiping Du, ‘Sliding mode predictive tracking control for electric vehicle using Steer-by-Wire system’, SAE, 2018
+
+**Chao Huang**, Fazel Naghdy, Haiping Du, ‘Model predictive control-based lane change control system for an autonomous vehicle’, TENCON 2016.
+
+**Chao Huang**, Fazel Naghdy, Haiping Du, ‘Robust fuzzy tracking control of uncertain steer-by-wire systems with network time delays’, 
+2015 Australasian Universities Power Engineering Conference (AUPEC)
+
+**Chao Huang**, Fazel Naghdy, Haiping Du, ‘Takagi-sugeno fuzzy H∞ tracking control for steer-by-wire systems’, 
+2015 IEEE Conference on Control Applications (CCA).
+
+Hailong Huang, Andrey V. Savkin, **Chao Huang**. Delay-aware data collection in wireless sensor networks with mobile nodes. Control Conference (CCC), 2017 36th Chinese. IEEE, 2017: 8875-8878. 
+
+```
 - Bulleted
 - List
 
