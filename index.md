@@ -19,11 +19,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```
 #### Education:
-
+```markdown
 July 2014 -  Sept 2018  Ph.D, School of Electrical, Computer and Telecommunications Engineering, University of Wollongong
 July 2012 -  July 2014  Master, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)
 Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)
-
+```
 
 # Header 1
 ## Header 2
