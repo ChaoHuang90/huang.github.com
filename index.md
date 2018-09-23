@@ -20,7 +20,13 @@ July 2012 -  July 2014  Master, School of Geophysics and Information Engineering
 Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)
 ```
 
-# Header 1
+#### Academic honors
+```markdown
+2009.3   Physics Competition  **First Prize**, Competitions of China University of Petroleum, Beijing
+2010.5   Mathematical Modeling Competition, **Third Prize**, Competitionsof China Univerisity of Petroleum, Beijing
+2010.9   National Mathematical Modeling Competition, **Second Prize**,, National and International Competitions
+```
+
 ## Header 2
 ### Header 3
 
