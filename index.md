@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ChaoHuang90/huang.github.c
 
 #### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
-#### Degree: -Ph.D (Univerisity of Wollongong) 
+#### Degree: Ph.D (Univerisity of Wollongong) 
  
 #### Research Interests/Area: Control theory and applications, Vehicle System Dynamics and Control
 
@@ -38,7 +38,10 @@ Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineeri
 2010-2011 Advanced Individual of Cultural and sports activities Scholarship
 ```
 
-## Header 2
+#### Published Papers
+```markdown
+Chao Huang, Fazel Naghdy, Haiping Du, ‘[Observer-based fault tolerant controller for uncertain Steer-by-Wire systems using the delta operator]’(https://ieeexplore.ieee.org/abstract/document/8326557/), IEEE Transactions on Mechatronics, 2018 
+```
 ### Header 3
 
 - Bulleted
