@@ -50,9 +50,9 @@ IEEE transactions on Control System technology, 2017 DOI: 10.1109/TCST.2017.2736
 
 Chao Huang, Fazel Naghdy, Haiping Du, [Fault tolerant sliding mode predictive control with chaos particle swarm optimization for uncertain Steer-by-Wire system], IEEE Transactions on Cybernetics, 2017 DOI: 10.1109/TCYB.2017.2771497
 
-Huang, Hailong, Andrey V. Savkin, and Chao Huang. [I-UMDPC: The improved-unusual message delivery path construction for wireless sensor networks with mobile sinks.](https://ieeexplore.ieee.org/abstract/document/7932837/) IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
+Huang, Hailong, Andrey V. Savkin, and *Chao Huang*. [I-UMDPC: The improved-unusual message delivery path construction for wireless sensor networks with mobile sinks.](https://ieeexplore.ieee.org/abstract/document/7932837/) IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
 
-Huang, Hailong, et al. [A framework for classification with single feature kernel matrix.](https://www.sciencedirect.com/science/article/pii/S0030402613010991), Optik-International Journal for Light and Electron Optics 125.3 (2014): 1024-1029.
+Hailong Huang, Xin Zuo, Chao Huang, Jianwei Liu. [A framework for classification with single feature kernel matrix.](https://www.sciencedirect.com/science/article/pii/S0030402613010991), Optik-International Journal for Light and Electron Optics 125.3 (2014): 1024-1029.
 ```
 ### Header 3
 
