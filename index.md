@@ -5,13 +5,8 @@ You can use the [editor on GitHub](https://github.com/ChaoHuang90/huang.github.c
 #### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
 #### Degree: -Ph.D (Univerisity of Wollongong) 
-    
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+ 
 #### Research Interests/Area: Control theory and applications, Vehicle System Dynamics and Control
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 #### Academic & Professional Experience:
 ```markdown
