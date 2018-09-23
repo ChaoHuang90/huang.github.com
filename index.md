@@ -41,8 +41,16 @@ Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineeri
 #### Published Papers
 ```markdown
 Chao Huang, Fazel Naghdy, Haiping Du, [Observer-based fault tolerant controller for uncertain Steer-by-Wire systems using the delta operator](https://ieeexplore.ieee.org/abstract/document/8326557/index.md), 
-IEEE Transactions on Mechatronics, 2018,
-DOI: 10.1109/TMECH.2018.2820091
+IEEE Transactions on Mechatronics, 2018, DOI: 10.1109/TMECH.2018.2820091
+Chao Huang, Fazel Naghdy, Haiping Du, [Delta operator based model predictive control with fault compensation for Steer-by-Wire systems](https://ieeexplore.ieee.org/abstract/document/8327624/), 
+IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018 DOI: 10.1109/TSMC.2018.2812849
+
+Chao Huang, Fazel Naghdy, Haiping Du, [Fault detection and isolation based model predictive fault-tolerant control for constrained vehicle steer-by-wire systems], 
+IEEE transactions on Control System technology, 2017 DOI: 10.1109/TCST.2017.2736497
+
+Chao Huang, Fazel Naghdy, Haiping Du, [Fault tolerant sliding mode predictive control with chaos particle swarm optimization for uncertain Steer-by-Wire system], IEEE Transactions on Cybernetics, 2017 DOI: 10.1109/TCYB.2017.2771497
+
+Huang, Hailong, Andrey V. Savkin, and Chao Huang. [I-UMDPC: The improved-unusual message delivery path construction for wireless sensor networks with mobile sinks.](https://ieeexplore.ieee.org/abstract/document/7932837/) IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
 ```
 ### Header 3
 
