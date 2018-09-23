@@ -40,7 +40,7 @@ Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineeri
 
 #### Published Papers
 ```markdown
-**Chao Huang**, Fazel Naghdy, Haiping Du, [Observer-based fault tolerant controller for uncertain Steer-by-Wire systems using the delta operator](https://ieeexplore.ieee.org/abstract/document/8326557/index.md),
+**Chao Huang**, Fazel Naghdy, Haiping Du, [Observer-based fault tolerant controller for uncertain Steer-by-Wire systems using the delta operator](https://ieeexplore.ieee.org/abstract/document/8326557),
 IEEE Transactions on Mechatronics, 2018, DOI: 10.1109/TMECH.2018.2820091
 Chao Huang, Fazel Naghdy, Haiping Du, [Delta operator based model predictive control with fault compensation for Steer-by-Wire systems](https://ieeexplore.ieee.org/abstract/document/8327624/index.md), 
 IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018 DOI: 10.1109/TSMC.2018.2812849
