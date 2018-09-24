@@ -4,7 +4,7 @@
 ![](images/small.jpg)
 
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:+1: This PR looks great - it's ready to merge! :shipit:
 
 #### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
@@ -13,10 +13,9 @@
 #### Research Interests/Area: Control theory and applications, Vehicle System Dynamics and Control
 
 #### Academic & Professional Experience:
-```markdown
+
 03 Sep 2018 -   Today           Technical support, National Institute of Informatics
 
-```
 #### Education:
 
 * July 2014 -  Sept 2018  Ph.D, [School of Electrical, Computer and Telecommunications Engineering](https://eis.uow.edu.au/secte/index.html), [University of Wollongong](https://www.uow.edu.au/index.html))  
@@ -26,25 +25,25 @@
 
 #### Academic Honors
 
-2009.3   Physics Competition  **First Prize**, Competitions of China University of Petroleum, Beijing
-2010.5   Mathematical Modeling Competition, **Third Prize**, Competitionsof China Univerisity of Petroleum, Beijing
-2010.9   National Mathematical Modeling Competition, **Second Prize**,, National and International Competitions
+* 2009.3   Physics Competition  **First Prize**, Competitions of China University of Petroleum, Beijing
+* 2010.5   Mathematical Modeling Competition, **Third Prize**, Competitionsof China Univerisity of Petroleum, Beijing
+* 2010.9   National Mathematical Modeling Competition, **Second Prize**,, National and International Competitions
 
 #### Scholarship Awarded
 
 2008-2009 The Third Prize Scholarship  
-2009-2010 National Scholarship (only 1 of 57 students in department of automation awarded) 
-2010-2011 Enterprise Scholarship (only 5 of 57 students in department of automation awarded)  
-2008-2009 Merit Student 
-2009-2010 Merit Student  
-2009-2010 Advanced Individual of Cultural and sports activities 
-2010-2011 Merit Student  
-2010-2011 Advanced Individual of Cultural and sports activities Scholarship
+2009-2010 National Scholarship (only 1 of 57 students in department of automation awarded)   
+2010-2011 Enterprise Scholarship (only 5 of 57 students in department of automation awarded)   
+2008-2009 Merit Student   
+2009-2010 Merit Student    
+2009-2010 Advanced Individual of Cultural and sports activities   
+2010-2011 Merit Student    
+2010-2011 Advanced Individual of Cultural and sports activities Scholarship  
 
 
 #### Published Papers
 
-**Chao Huang**, Fazel Naghdy, Haiping Du, “Observer-based fault tolerant controller for uncertain Steer-by-Wire systems using the delta operator“,
+* **Chao Huang**, Fazel Naghdy, Haiping Du, “Observer-based fault tolerant controller for uncertain Steer-by-Wire systems using the delta operator“,
 IEEE Transactions on Mechatronics, 2018, DOI: 10.1109/TMECH.2018.2820091
 
 * **Chao Huang**, Fazel Naghdy, Haiping Du, “Delta operator based model predictive control with fault compensation for Steer-by-Wire systems“, 
