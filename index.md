@@ -1,6 +1,6 @@
 ## Chao Huang
 
-![](images/WechatIMG3.jpg)
+![](images/small.jpg)
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
