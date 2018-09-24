@@ -3,26 +3,42 @@
 
 ![](images/small.jpg)
 
- display: table;
-   width: 100%;
+display: table;
+     width: 100%;
+     @media(max-width: 768px) {
+         // @screen-xs-max
+         // On mobile, we don't render a table any more because don't want
+         // columns - everything should be one 100% block instead. Just like
+         // Bootstrap does it as well.
+         display: block;
+     }
  }
- @media (max-width: 768px) {
-   .div-table {
-     display: block;
-   }
- }
+
  .div-table-row {
-   display: table-row;
-   width: 100%;
+     // Inside the div-table, we obvisouly need to have a div-table-row.
+     display: table-row;
+     width: 100%;
+     @media(max-width: 768px) {
+         // @screen-xs-max
+         // Same as above. On mobile we don't want columns.
+         display: block;
+     }
  }
- @media (max-width: 768px) {
-   .div-table-row {
-     display: block;
-   }
- }
+
  .div-table-cell {
-   display: table-cell;
-   vertical-align: top;
+ @@ -58,7 +46,11 @@ html, body {
+     width: 50%;
+     @media(max-width: 768px) {
+         // @screen-xs-max
+         // Same as above. On mobile we don't want columns.
+         // In our markup, the content obviously sits in a table-cell, but on
+         // mobile we want to trick the browser into assuming that this is not
+         // a cell but a header or footer. Therefore we disable the cell styles
+         // here on mobile. Likewise, the `table-header-group` and
+         //  `table-footer-group` styles are only enabled on mobile.
+         display: block;
+         width: 100%;
+     }
     
 
     
