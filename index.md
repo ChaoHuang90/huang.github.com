@@ -3,17 +3,26 @@
 
 ![](images/small.jpg)
 
-img {
-    vertical-align: middle;
-}
-   
-{{{ slide.content }}}
-<div style='float:left;width:48%;' class='centered'>
-  {{{ slide.left.html }}}
-</div>
-<div style='float:right;width:48%;'>
-  {{{ slide.right.html }}}
-</div>
+ display: table;
+   width: 100%;
+ }
+ @media (max-width: 768px) {
+   .div-table {
+     display: block;
+   }
+ }
+ .div-table-row {
+   display: table-row;
+   width: 100%;
+ }
+ @media (max-width: 768px) {
+   .div-table-row {
+     display: block;
+   }
+ }
+ .div-table-cell {
+   display: table-cell;
+   vertical-align: top;
     
 
     
