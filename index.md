@@ -1,13 +1,10 @@
 ## Chao Huang/ 黄 超
-#### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
+### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
 
 :+1: I like :swimmer: and :running:
 
 * Email: chao_huang [at] nii.ac.jp
 * [Office and postal address](http://group-mmm.org/eratommsd/access/)
-
-### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
-
 
  
 ### Research Interests/Area:  
