@@ -7,10 +7,39 @@ img {
     vertical-align: middle;
 }
    
-<div class="wrap">
-        <img src="images/small.jpg" alt="">
-        <span> I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).</span>
-    </div>
+<div class="begin-examples"></div>
+
+article .begin-examples ~ h2,
+article .begin-examples ~ h2 + p {
+    width: 100%;
+    clear: both;
+}
+
+article .begin-examples ~ h3,
+article .begin-examples ~ p,
+article .begin-examples ~ .highlight {
+    width: 50%;
+}
+
+article .begin-examples ~ h3,
+article .begin-examples ~ p {
+    float: left;
+    box-sizing: border-box;
+    padding-right: 1rem;
+    clear: both;
+}
+
+article .begin-examples ~ .highlight {
+    float: right;
+    clear: right;
+    margin-bottom: 1rem;
+}
+
+.end-examples {
+    clear: both;
+}
+
+<div class="end-examples"></div>
     
 
     
@@ -30,7 +59,7 @@ img {
 ```
 #### Education:
 
-July 2014 -  Sept 2018  Ph.D, School of Electrical, [Computer and Telecommunications Engineering](https://eis.uow.edu.au/secte/index.html), University of Wollongong  
+July 2014 -  Sept 2018  Ph.D, [School of Electrical, Computer and Telecommunications Engineering](https://eis.uow.edu.au/secte/index.html), University of Wollongong  
 July 2012 -  July 2014  Master, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)  
 Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)  
 
