@@ -1,5 +1,7 @@
 ## Chao Huang
 
+<img src=“images/WechatIMG3.jpg“>
+
 You can use the [editor on GitHub](https://github.com/ChaoHuang90/huang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 #### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
@@ -77,7 +79,8 @@ Hailong Huang, Xin Zuo, **Chao Huang**, “Arbitrary initialization for Chan–V
 Hailong Huang, Andrey V. Savkin, **Chao Huang**. Delay-aware data collection in wireless sensor networks with mobile nodes. Control Conference (CCC), 2017 36th Chinese. IEEE, 2017: 8875-8878. 
 
 ```
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 ![picture](http://stash.xxxxxx.com/projects/zzzzz/img/abc.png)
 
