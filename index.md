@@ -19,7 +19,7 @@ img {
 
 #### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
-#### Degree: Ph.D (Univerisity of Wollongong) 
+#### Degree: Ph.D ([Univerisity of Wollongong](https://www.uow.edu.au/index.html)) 
  
 #### Research Interests/Area: Control theory and applications, Vehicle System Dynamics and Control
 
@@ -29,11 +29,11 @@ img {
 
 ```
 #### Education:
-```markdown
+
 July 2014 -  Sept 2018  Ph.D, School of Electrical, Computer and Telecommunications Engineering, University of Wollongong
 July 2012 -  July 2014  Master, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)
 Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)
-```
+
 
 #### Academic Honors
 ```markdown
