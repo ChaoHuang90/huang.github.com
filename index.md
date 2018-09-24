@@ -1,37 +1,37 @@
 ## Chao Huang/ 黄 超
-##### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
+#### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
 
 :+1: I like :swimmer: and :running:
 
-#### Email: chao_huang [at] nii.ac.jp
-#### [Office and postal address](http://group-mmm.org/eratommsd/access/)
+* Email: chao_huang [at] nii.ac.jp
+* [Office and postal address](http://group-mmm.org/eratommsd/access/)
 
-#### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
+### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
-#### Degree: Ph.D ([Univerisity of Wollongong](https://www.uow.edu.au/index.html)) 
+
  
-#### Research Interests/Area:  
+### Research Interests/Area:  
 * Control theory and applications
 * Vehicle System Dynamics and Control
 
-#### Academic & Professional Experience:
+### Academic & Professional Experience:
 
 * 03 Sep 2018 -   Today           Technical support, National Institute of Informatics
 
-#### Education:
+### Education:
 
 * July 2014 -  Sept 2018  Ph.D, [School of Electrical, Computer and Telecommunications Engineering](https://eis.uow.edu.au/secte/index.html), [University of Wollongong](https://www.uow.edu.au/index.html))  
 * July 2012 -  July 2014  Master, [School of Geophysics and Information Engineering](http://www.cup.edu.cn/cgi/), [China University of Petroleum （Beijing)](http://www.cup.edu.cn)  
 * Sept 2008 -  July 2012  Bachalor, [School of Geophysics and Information Engineering](http://www.cup.edu.cn/cgi/), [China University of Petroleum （Beijing)](http://www.cup.edu.cn)  
 
 
-#### Academic Honors
+### Academic Honors
 
 * 2009.3   Physics Competition  **First Prize**, Competitions of China University of Petroleum, Beijing
 * 2010.5   Mathematical Modeling Competition, **Third Prize**, Competitionsof China Univerisity of Petroleum, Beijing
 * 2010.9   National Mathematical Modeling Competition, **Second Prize**,, National and International Competitions
 
-#### Scholarship Awarded
+### Scholarship Awarded
 
 * 2008-2009 The Third Prize Scholarship  
 * 2009-2010 National Scholarship (only 1 of 57 students in department of automation awarded)   
