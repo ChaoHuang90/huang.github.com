@@ -19,9 +19,9 @@
 ```
 #### Education:
 
-July 2014 -  Sept 2018  Ph.D, [School of Electrical, Computer and Telecommunications Engineering](https://eis.uow.edu.au/secte/index.html), [University of Wollongong](https://www.uow.edu.au/index.html))  
-July 2012 -  July 2014  Master, [School of Geophysics and Information Engineering](http://www.cup.edu.cn/cgi/), [China University of Petroleum （Beijing)](http://www.cup.edu.cn)  
-Sept 2008 -  July 2012  Bachalor, School of Geophysics and Information Engineering, China University of Petroleum （Beijing)  
+*July 2014 -  Sept 2018  Ph.D, [School of Electrical, Computer and Telecommunications Engineering](https://eis.uow.edu.au/secte/index.html), [University of Wollongong](https://www.uow.edu.au/index.html))  
+*July 2012 -  July 2014  Master, [School of Geophysics and Information Engineering](http://www.cup.edu.cn/cgi/), [China University of Petroleum （Beijing)](http://www.cup.edu.cn)  
+*Sept 2008 -  July 2012  Bachalor, [School of Geophysics and Information Engineering](http://www.cup.edu.cn/cgi/), [China University of Petroleum （Beijing)](http://www.cup.edu.cn)  
 
 
 #### Academic Honors
