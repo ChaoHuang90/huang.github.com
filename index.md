@@ -1,5 +1,5 @@
 ## Chao Huang/ 黄 超
-> I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
+I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
 
 :+1: I like :swimmer: and :running:
 
