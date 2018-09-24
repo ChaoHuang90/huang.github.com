@@ -1,9 +1,9 @@
 ## Chao Huang/ 黄 超
-I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
+#### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
 
 :+1: I like :swimmer: and :running:
 
-#### Email: chao_huang [at]nii.ac.jp
+#### Email: chao_huang [at] nii.ac.jp
 
 #### Affiliation: [ERATO MMSD of National Institute of Informatics](https://group-mmm.org/eratommsd/)
 
@@ -13,7 +13,7 @@ I'm a technical support employee at [National Institute of Informatics (Tokyo, J
 
 #### Academic & Professional Experience:
 
-03 Sep 2018 -   Today           Technical support, National Institute of Informatics
+* 03 Sep 2018 -   Today           Technical support, National Institute of Informatics
 
 #### Education:
 
@@ -30,14 +30,14 @@ I'm a technical support employee at [National Institute of Informatics (Tokyo, J
 
 #### Scholarship Awarded
 
-2008-2009 The Third Prize Scholarship  
-2009-2010 National Scholarship (only 1 of 57 students in department of automation awarded)   
-2010-2011 Enterprise Scholarship (only 5 of 57 students in department of automation awarded)   
-2008-2009 Merit Student   
-2009-2010 Merit Student    
-2009-2010 Advanced Individual of Cultural and sports activities   
-2010-2011 Merit Student    
-2010-2011 Advanced Individual of Cultural and sports activities Scholarship  
+* 2008-2009 The Third Prize Scholarship  
+* 2009-2010 National Scholarship (only 1 of 57 students in department of automation awarded)   
+* 2010-2011 Enterprise Scholarship (only 5 of 57 students in department of automation awarded)   
+* 2008-2009 Merit Student   
+* 2009-2010 Merit Student    
+* 2009-2010 Advanced Individual of Cultural and sports activities   
+* 2010-2011 Merit Student    
+* 2010-2011 Advanced Individual of Cultural and sports activities Scholarship  
 
 
 #### Published Papers
