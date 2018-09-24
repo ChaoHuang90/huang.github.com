@@ -1,5 +1,5 @@
 ## Chao Huang/ 黄 超
-#### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
+### I'm a technical support employee at [National Institute of Informatics (Tokyo, Japan)](https://www.nii.ac.jp/en/), engaged in the [ERATO MMSD project](https://group-mmm.org/eratommsd/) led by [Ichiro Hasuo](http://group-mmm.org/~ichiro/).
 
 :+1: I like :swimmer: and :running:
 
@@ -69,7 +69,7 @@ IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
 
 * **Chao Huang**, Fazel Naghdy, Haiping Du, ‘Sliding mode predictive tracking control for electric vehicle using Steer-by-Wire system’, SAE, 2018
 
-* **Chao Huang**, Fazel Naghdy, Haiping Du, ‘Model predictive control-based lane change control system for an autonomous vehicle’, TENCON 2016.
+* **Chao Huang**, Fazel Naghdy, Haiping Du, [Model predictive control-based lane change control system for an autonomous vehicle](https://ieeexplore.ieee.org/abstract/document/7848673/), TENCON 2016.
 
 * **Chao Huang**, Fazel Naghdy, Haiping Du, [Robust fuzzy tracking control of uncertain steer-by-wire systems with network time delays](https://www.researchgate.net/profile/Chao_Huang34/publication/308901530_Robust_fuzzy_tracking_control_of_uncertain_steer-by-wire_systems_with_network_time_delays/links/58337c8408ae004f74c5adfe/Robust-fuzzy-tracking-control-of-uncertain-steer-by-wire-systems-with-network-time-delays.pdf), 
 2015 Australasian Universities Power Engineering Conference (AUPEC)
@@ -80,33 +80,5 @@ IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
 * Hailong Huang, Andrey V. Savkin, **Chao Huang**. [Delay-aware data collection in wireless sensor networks with mobile nodes](https://ieeexplore.ieee.org/document/8028768/). Control Conference (CCC), 2017 36th Chinese. IEEE, 2017: 8875-8878. 
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-![picture](http://stash.xxxxxx.com/projects/zzzzz/img/abc.png)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChaoHuang90/huang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-For more information, please send email to chao_huang@nii.ac.jp
+For more details see [Google Scholar Homepage](https://scholar.google.com/citations?user=oANU1j4AAAAJ&hl=en).
