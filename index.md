@@ -10,7 +10,8 @@
 #### Degree: Ph.D ([Univerisity of Wollongong](https://www.uow.edu.au/index.html)) 
  
 #### Research Interests/Area:  
-* Control theory and applications, Vehicle System Dynamics and Control
+* Control theory and applications
+* Vehicle System Dynamics and Control
 
 #### Academic & Professional Experience:
 
@@ -81,4 +82,4 @@ IEEE Internet of Things Journal 4.5 (2017): 1528-1536.
 
 
 
-For more details see [Google Scholar Homepage](https://scholar.google.com/citations?user=oANU1j4AAAAJ&hl=en).
+For more details see [My Google Scholar Homepage](https://scholar.google.com/citations?user=oANU1j4AAAAJ&hl=en).
