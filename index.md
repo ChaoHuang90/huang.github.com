@@ -7,39 +7,13 @@ img {
     vertical-align: middle;
 }
    
-<div class="begin-examples"></div>
-
-article .begin-examples ~ h2,
-article .begin-examples ~ h2 + p {
-    width: 100%;
-    clear: both;
-}
-
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
-    width: 50%;
-}
-
-article .begin-examples ~ h3,
-article .begin-examples ~ p {
-    float: left;
-    box-sizing: border-box;
-    padding-right: 1rem;
-    clear: both;
-}
-
-article .begin-examples ~ .highlight {
-    float: right;
-    clear: right;
-    margin-bottom: 1rem;
-}
-
-.end-examples {
-    clear: both;
-}
-
-<div class="end-examples"></div>
+{{{ slide.content }}}
+<div style='float:left;width:48%;' class='centered'>
+  {{{ slide.left.html }}}
+</div>
+<div style='float:right;width:48%;'>
+  {{{ slide.right.html }}}
+</div>
     
 
     
